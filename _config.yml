@@ -1,7 +1,7 @@
 name: Capsule Portfolio
 favicon: null
-layout_spectrum: 0.7141770354937762
-typography_spectrum: 0.20497026713564992
+layout_spectrum: 1
+typography_spectrum: 0.49914
 cta:
   domain: null
   bucket: null
